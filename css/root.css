@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;700&display=swap');
+
+:root{
+	--text-color:#000;
+	--text-white-color:#FFF;
+	--bg-color:#EDEDED;
+	--min-width:320px;
+	--max-width:1280px;
+	--media-480:480px;
+	--media-768:768px;
+	--font-family-text:'NunitoSans-Regular',sans-serif;
+	--font-family-title:'NunitoSans-Bold',sans-serif;
+	--font-family-subtitle:'NunitoSans-Light',sans-serif;
+}
